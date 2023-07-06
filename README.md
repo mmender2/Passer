@@ -1,5 +1,5 @@
 # Passer
-About An LLM powered Streamlit app so you can chat with your CSV files.
+About An LLM powered app so you can chat with your CSV files.
 
 ## Requirements
 
